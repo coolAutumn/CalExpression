@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="unnamed">
+    <output-path>$PROJECT_DIR$/Jar</output-path>
+    <root id="archive" name="CalExpression.jar">
+      <element id="module-output" name="CalExpression" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Jar/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
